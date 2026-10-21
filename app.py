@@ -4,7 +4,7 @@ from pipeline import extract_text_from_pdf, annotate_paper
 
 st.set_page_config(page_title="AI Research Rigour Annotator", layout="wide")
 
-st.title("🔬 Automated Research Rigour Annotation Pipeline")
+st.title("Automated Research Rigour Annotation Pipeline")
 
 st.subheader("IIT Delhi Central Library Project Prototype")
 
