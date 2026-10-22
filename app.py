@@ -6,7 +6,7 @@ st.set_page_config(page_title="AI Research Rigour Annotator", layout="wide")
 
 st.title("Automated Research Rigour Annotation Pipeline")
 
-st.subheader("IIT Delhi Central Library Project Prototype")
+st.subheader("Project Prototype")
 
 uploaded_file = st.file_uploader("Upload a Research Paper (PDF)", type=["pdf"])
 if uploaded_file is not None:
